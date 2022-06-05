@@ -1,29 +1,7 @@
 [**Культурно-познавательный турим**](/kulturnii_turism.md)
 
-## &nbsp;&nbsp;Религиозный туризм
+[**Религиозный туризм**](/religioznii_turizm.md)
 
-[Михайловский собор](/mikhailovskiy_sobor.md)
+[**Спортивный туризм**](/sport_turism.md)
 
-[Невский собор](/nevskiy_sobor.md)
-
-[Храм](/hram.md)
-
-[Троицкий собор](/troitskiy_sobor.md)
-
-## &nbsp;&nbsp;Спортивный туризм
-
-[Ижсталь](/izhstal.md)
-
-[Зенит](/zenit.md)
-
-[Динамо](/dinamo.md)
-
-## &nbsp;&nbsp;Оздоровительный туризм
-
-[Каприс](/kapris.md)
-
-[Crown Thai Spa](/crown_spa.md)
-
-[MaiTai](/maitai.md)
-
-[Кайлас](/kailas.md)
+[**Оздоровительный туризм**](/zdorovii_turism.md)
