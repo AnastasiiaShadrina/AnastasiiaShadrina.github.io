@@ -68,8 +68,7 @@
 <p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«Историческая экспозиция»: взрослые — 180 руб., студенты — 90 руб., пенсионеры — 80 руб., школьники — 60 руб., дети 3–7 лет — 40 руб.</p>
 <p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«Природа Удмуртии»: взрослые — 190 руб., студенты — 110 руб., пенсионеры — 100 руб., школьники — 70 руб., дети 3–7 лет — 50 руб.</p>
 <p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Временные выставки: взрослые — 120 руб., студенты, пенсионеры и школьники — 60 руб., дети 3–7 лет — 40 руб.</p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Режим работы: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пн — выходной.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вт-Вс: 10:00 — 18:00.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чт: 13:00 — 21:00.
+<p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Режим работы:</p> 
+<p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пн — выходной.</p>
+<p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вт-Вс: 10:00 — 18:00.</p>
+<p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чт: 13:00 — 21:00.</p>
