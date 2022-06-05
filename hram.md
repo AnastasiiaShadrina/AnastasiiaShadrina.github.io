@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;И эти труды увенчались победой. Храм был торжественно открыт 4 ноября 2001 года. Для Ижевска это был первый опыт нового храмового строительства, ставший бесценным при возведении Свято-Михайловского собора.
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/mat.jpg" alt="церковь" width="300"/>&nbsp;&nbsp;<img src="./images/mat_3.jpeg" alt="церковь" width="325"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/mat.jpg" alt="церковь" width="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/mat_3.jpeg" alt="церковь" width="325"/> 
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Среди наиболее чтимых святынь храма – частицы мощей св. блгв. Воина Феодора (Ушакова) Санаксарского, свт. Филарета Московского и икона Божией Матери «Исцелительница».
 </p>

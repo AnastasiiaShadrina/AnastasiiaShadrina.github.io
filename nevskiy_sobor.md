@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Собор был возвращен верующим в 1990 году и после подготовки проекта реставрации в 1992 году начались работы по возрождению собора. К концу 1993 года ремонт был завершён, на территории собора построены новый крестильный храм, иордань для освящения воды, звонница и 2 января 1994 года состоялось освящение собора. 
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/tserkov_3.jpg" alt="церковь" width="300"/>&nbsp;&nbsp;<img src="./images/tserkov_4.jpg" alt="церковь" width="340"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/tserkov_3.jpg" alt="церковь" width="300"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/tserkov_4.jpg" alt="церковь" width="340"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/tserkov_5.jpg" alt="церковь" width="340"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Время работы собора: пн-сб с 7:00 до 19:00, вс с 6:30 до 18:00
