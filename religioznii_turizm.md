@@ -1,11 +1,11 @@
-[Назад](/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
 
 ## &nbsp;&nbsp;Религиозный туризм
 
-[Михайловский собор](/mikhailovskiy_sobor.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Михайло-Архангельский кафедральный собор](/mikhailovskiy_sobor.md)
 
-[Невский собор](/nevskiy_sobor.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Александро-Невский кафедральный собор](/nevskiy_sobor.md)
 
-[Храм](/hram.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Храм Казанской Божьей Матери](/hram.md)
 
-[Троицкий собор](/troitskiy_sobor.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Свято-Троицкий собор](/troitskiy_sobor.md)

@@ -1,11 +1,11 @@
-[Назад](/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
 
 ## &nbsp;&nbsp;Оздоровительный туризм
 
-[Каприс](/kapris.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[СПА-салон Каприс](/kapris.md)
 
-[Crown Thai Spa](/crown_spa.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Салон восточной красоты Crown Thai Spa](/crown_spa.md)
 
-[MaiTai](/maitai.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Тайский СПА-салон MaiTai](/maitai.md)
 
-[Кайлас](/kailas.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Центр йоги «Кайлас»](/kailas.md)
