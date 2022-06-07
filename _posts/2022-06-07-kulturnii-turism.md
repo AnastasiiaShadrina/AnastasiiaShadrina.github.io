@@ -4,7 +4,7 @@ title: "Культурно-познавательный туризм"
 author: "Шадрина Анастасия"
 categories: Туризм
 tags: [Туризм]
-image: kulturniiturism.jpg
+image: /images/main/kulturniiturism.jpg
 ---
 
 <p class="lead"><a href="{{ site.baseurl }}/">&nbsp;&nbsp;&nbsp;Назад</a> </p>
