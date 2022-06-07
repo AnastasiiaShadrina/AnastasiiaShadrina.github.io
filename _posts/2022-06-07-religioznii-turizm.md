@@ -4,7 +4,7 @@ title: "Религиозный туризм"
 author: ""
 categories: Туризм
 tags: [Туризм]
-image: religiozniiturizm.jpg
+image: religiozniiturism.jpg
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
