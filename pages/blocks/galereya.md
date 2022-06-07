@@ -4,7 +4,7 @@ title: Выставочный центр «Галерея»
 permalink: /galereya
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
 
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Выставочный центр «Галерея» - одна из самых крупных выставочных площадок в столице Удмуртии. Открыта в 1993 г. на Центральной площади Ижевска. В настоящее время здесь одновременно работают три выставочных зала.

@@ -5,7 +5,7 @@ permalink: /kalashnikov
 ---
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
 
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 ноября 2004 года в столице Республики Удмуртия городе Ижевске открылся музей знаменитого 

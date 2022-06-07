@@ -4,7 +4,7 @@ title: СПА-салон Каприс
 permalink: /kapris
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/ozdorovitelniiturism)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/ozdorovitelniiturism)
 
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В центре города расположен spa-салон красоты "Каприс", который отвечает самым высоким стандартам городского SPA-курорта. Spa-салон "Каприс" занимает два этажа в здании. Переступив порог центра, гость попадает в атмосферу гостеприимства и изысканных интерьеров. 
