@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Культурно-познавательный туризм"
-author: ""
+author: "Шадрина Анастасия"
 categories: Туризм
 tags: [Туризм]
 image: kulturniiturism.jpg

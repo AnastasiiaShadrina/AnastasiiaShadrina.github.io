@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Религиозный туризм"
-author: ""
+author: "Шадрина Анастасия"
 categories: Туризм
 tags: [Туризм]
 image: religiozniiturism.jpg

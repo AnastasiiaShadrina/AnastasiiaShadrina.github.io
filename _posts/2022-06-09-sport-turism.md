@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Спортивный туризм"
+author: "Шадрина Анастасия"
+categories: Туризм
+tags: [Туризм]
+image: sportturism.jpg
+---
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
 
 ## &nbsp;&nbsp;Спортивный туризм

@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Оздоровительный туризм"
+author: "Шадрина Анастасия"
+categories: Туризм
+tags: [Туризм]
+image: zdoroviiturism.jpg
+---
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
 
 ## &nbsp;&nbsp;Оздоровительный туризм
