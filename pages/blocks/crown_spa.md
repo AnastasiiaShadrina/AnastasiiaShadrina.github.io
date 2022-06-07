@@ -1,3 +1,8 @@
+---
+layout: page
+title: Crown Spa
+---
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/zdorovii_turism.md)
 
 ### &nbsp;&nbsp;&nbsp;Салон восточной красоты Crown Thai Spa

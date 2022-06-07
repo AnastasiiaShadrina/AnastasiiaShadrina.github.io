@@ -1,3 +1,8 @@
+---
+layout: page
+title: Galereya
+---
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
 
 ### &nbsp;&nbsp;&nbsp;Выставочный центр «Галерея»
