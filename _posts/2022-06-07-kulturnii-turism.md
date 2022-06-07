@@ -4,7 +4,7 @@ title: "Культурно-познавательный туризм"
 author: ""
 categories: Туризм
 tags: [Туризм]
-image: arctic-1.jpg
+image: kulturniiturism.jpg
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
