@@ -1,4 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religioznii_turizm.md)
+---
+layout: page
+title: Храм Казанской Божьей Матери
+permalink: /hramkazanskoibozieimateri
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religiozniiturism)
 
 ### &nbsp;&nbsp;&nbsp;Храм Казанской Божьей Матери
 <p style="text-align:  justify;">

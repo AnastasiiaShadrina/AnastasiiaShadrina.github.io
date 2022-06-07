@@ -1,4 +1,11 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
+---
+layout: page
+title: Музейно-выставочный комплекс оружия им. М.Т. Калашникова
+permalink: /kalashnikov
+---
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
 
 ### &nbsp;&nbsp;&nbsp; Музейно-выставочный комплекс оружия им. М.Т. Калашникова
 <p style="text-align:  justify;">

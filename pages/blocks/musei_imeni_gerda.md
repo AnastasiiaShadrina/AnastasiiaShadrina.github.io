@@ -1,4 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
+---
+layout: page
+title: Национальный музей Удмуртской Республики имени Кузебая Герда
+permalink: /museiimenigerda
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
 
 ### &nbsp;&nbsp;&nbsp;Национальный музей Удмуртской Республики имени Кузебая Герда
 <p style="text-align:  justify;">

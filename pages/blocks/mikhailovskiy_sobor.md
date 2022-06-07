@@ -1,4 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religioznii_turizm.md)
+---
+layout: page
+title: Михайло-Архангельский кафедральный собор
+permalink: /mikhailovskiisobor
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religiozniiturism)
 
 ### &nbsp;&nbsp;&nbsp;Михайло-Архангельский кафедральный собор
 <p style="text-align:  justify;">

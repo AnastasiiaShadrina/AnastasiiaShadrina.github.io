@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Galereya
-permalink: /Galereya
+title: Выставочный центр «Галерея»
+permalink: /galereya
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)

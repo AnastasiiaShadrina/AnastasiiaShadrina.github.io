@@ -1,4 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religioznii_turizm.md)
+---
+layout: page
+title: Александро-Невский кафедральный собор
+permalink: /aleksandronevskiysobor
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religiozniiturism)
 
 ### &nbsp;&nbsp;&nbsp;Александро-Невский кафедральный собор
 <p style="text-align:  justify;">

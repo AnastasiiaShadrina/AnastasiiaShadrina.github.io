@@ -1,4 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religioznii_turizm.md)
+---
+layout: page
+title: Свято-Троицкий собор
+permalink: /svyatotroitskiisobor
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/religiozniiturism)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свято-Троицкий собор
 <p style="text-align:  justify;">

@@ -5,16 +5,15 @@ author: "Шадрина Анастасия"
 categories: Туризм
 tags: [Туризм]
 image: religiozniiturism.jpg
+permalink: /religiozniiturism
 ---
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
 
 ## &nbsp;&nbsp;Религиозный туризм
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Михайло-Архангельский кафедральный собор](/mikhailovskiy_sobor.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Михайло-Архангельский кафедральный собор](/mikhailovskiisobor)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Александро-Невский кафедральный собор](/nevskiy_sobor.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Александро-Невский кафедральный собор](/aleksandronevskiysobor)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Храм Казанской Божьей Матери](/hram.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Храм Казанской Божьей Матери](/hramkazanskoibozieimateri)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Свято-Троицкий собор](/troitskiy_sobor.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Свято-Троицкий собор](/svyatotroitskiisobor)

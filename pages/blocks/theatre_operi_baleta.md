@@ -1,4 +1,10 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
+---
+layout: page
+title: Государственный театр оперы и балета Удмуртской Республики
+permalink: /theatreoperibaleta
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
 
 ### &nbsp;&nbsp;&nbsp;Государственный театр оперы и балета Удмуртской Республики
 <p style="text-align:  justify;">
