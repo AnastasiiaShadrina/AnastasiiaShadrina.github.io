@@ -17,7 +17,7 @@ permalink: /GaleLMAO
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;«Галерея» принимает активное участие в городских и республиканских культурных проектах. На сегодняшний день центр широко представлен в информационном поле города и республики. Ежегодно «Галерею» посещает более 70 тысяч человек.
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![галерея](./images/galereya.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![галерея](/images/galereya.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Выставочные залы:
 <p style="text-align:  justify;">
@@ -30,8 +30,8 @@ permalink: /GaleLMAO
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Открытый зал – территория свободного посещения и экспериментального творчества. Молодая выставочная площадка, дающая возможность заявить о себе творческим людям города и республики.
 </p>
 
-<img src="./images/galereya_2.jpg" alt="галерея" width="450"/>&nbsp;&nbsp;<img src="./images/galereya_3.jpg" alt="галерея" width="400"/> 
-<img src="./images/galereya_4.jpg" alt="галерея" width="860"/>
+<img src="/images/galereya_2.jpg" alt="галерея" width="450"/>&nbsp;&nbsp;<img src="/images/galereya_3.jpg" alt="галерея" width="400"/> 
+<img src="/images/galereya_4.jpg" alt="галерея" width="860"/>
 
 <p style="text-align:  justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Билет по цене входа на выставку: 200 руб. – взрослый. 150 руб. – детский.</p>
 

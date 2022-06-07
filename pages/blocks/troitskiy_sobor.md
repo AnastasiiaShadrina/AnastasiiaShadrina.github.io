@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В 1814 году по проекту архитектора Семена Емельяновича Дудина за счет казны выстроили каменный кладбищенский храм в классическом стиле и в ноябре того же года освятили его во имя Святой Троицы.
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/troisa.jpg" alt="собор 2" width="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/troisa_2.jpg" alt="собор 2" width="325"/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/troisa.jpg" alt="собор 2" width="350"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/troisa_2.jpg" alt="собор 2" width="325"/> 
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свято-Троицкий собор — один из старейших соборов Ижевска и всей Ижевской и Удмуртской епархии. В 2014 году, в ноябре, ему исполнилось 200 лет; вернее, 200 лет исполнилось каменному храму, престол которого 2 ноября 1814 года был освящен протоиереем Захарием Лятушевичем. Сама же Троицкая деревянная часовня, сгоревшая во время знаменитого Ижевского пожара, была выстроена намного раньше.
 </p>
@@ -28,6 +28,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Также при Соборе действует  детская воскресная учебно-воспитательная группа , где обучается 96 детей. В 2014 году обустроена игровая детская комната, для детей, которых родители привели на Божественную Литургию для принятия Святых Христовых Таин, и где дети смогут провести время под присмотром взрослого. Комната оборудована детской мебелью и игрушками.
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/troisa_3.jpg" alt="собор 2" width="372"/>&nbsp;&nbsp;<img src="./images/troisa_4.jpg" alt="собор 2" width="360"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/troisa_3.jpg" alt="собор 2" width="372"/>&nbsp;&nbsp;<img src="/images/troisa_4.jpg" alt="собор 2" width="360"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Режим работы: ежедневно с 07:30 до 18:00
