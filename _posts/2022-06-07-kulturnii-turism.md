@@ -7,7 +7,7 @@ tags: [Туризм]
 image: kulturniiturism.jpg
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
+<p class="lead"> <a href="{{ site.baseurl }}/">&nbsp;&nbsp;&nbsp;Назад</a> </p>
 
 ## &nbsp;&nbsp;Культурно-познавательный туризм
 
