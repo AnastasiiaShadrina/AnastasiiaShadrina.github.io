@@ -1,3 +1,8 @@
+---
+layout: page
+title: Государственного Русского драматического театра Удмуртии
+permalink: /dramteatr
+---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
 
 ### &nbsp;&nbsp;&nbsp;Государственный Русский драматический театр Удмуртии

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Dinamo
+permalink: /Dinamo
+---
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/sport_turism.md)
 
 ### &nbsp;&nbsp;&nbsp;Спорткомплекс «Динамо»

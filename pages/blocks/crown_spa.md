@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Crown Spa
+permalink: /CrownSpa
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/zdorovii_turism.md)
