@@ -5,6 +5,7 @@ author: "Шадрина Анастасия"
 categories: Туризм
 tags: [Туризм]
 image: kulturniiturism.jpg
+permalink: /kulturniiturism
 ---
 
 <p class="lead"><a href="{{ site.baseurl }}/">&nbsp;&nbsp;&nbsp;Назад</a> </p>

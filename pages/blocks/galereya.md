@@ -4,7 +4,7 @@ title: Galereya
 permalink: /Galereya
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturniiturism)
 
 ### &nbsp;&nbsp;&nbsp;Выставочный центр «Галерея»
 <p style="text-align:  justify;">
