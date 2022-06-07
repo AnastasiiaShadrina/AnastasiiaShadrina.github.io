@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Религиозный туризм"
+author: ""
+categories: Туризм
+tags: [Туризм]
+image: religiozniiturizm.jpg
+---
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
 
 ## &nbsp;&nbsp;Религиозный туризм
