@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Galereya
+layout: page
+title: GaleLMAO
+permalink: /GaleLMAO
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/kulturnii_turism.md)
