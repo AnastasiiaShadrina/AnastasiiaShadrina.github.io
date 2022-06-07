@@ -5,14 +5,11 @@ author: "Шадрина Анастасия"
 categories: Туризм
 tags: [Туризм]
 image: sportturism.jpg
+permalink: /sportivniiturism
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/index.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Учреждение культуры и спорта Ледовый дворец «Ижсталь»](/izhstal)
 
-## &nbsp;&nbsp;Спортивный туризм
+&nbsp;&nbsp;&nbsp;&nbsp;[Центральный Республиканский стадион «Зенит»](/zenit)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Учреждение культуры и спорта Ледовый дворец «Ижсталь»](/izhstal.md)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Центральный Республиканский стадион «Зенит»](/zenit.md)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Спорткомплекс «Динамо»](/dinamo.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Спорткомплекс «Динамо»](/dinamo)

@@ -1,6 +1,11 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/sport_turism.md)
+---
+layout: page
+title: Учреждение культуры и спорта Ледовый дворец «Ижсталь»
+permalink: /izhstal
+---
 
-### &nbsp;&nbsp;&nbsp;Учреждение культуры и спорта Ледовый дворец «Ижсталь»
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/sportivniiturism)
+
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Учреждение культуры и спорта Ледовый дворец «Ижсталь» — крытое спортивное сооружение, расположенное в городе Ижевске на улице Удмуртской.
 </p>

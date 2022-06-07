@@ -8,8 +8,6 @@ image: kulturniiturism.jpg
 permalink: /kulturniiturism
 ---
 
-## &nbsp;&nbsp;Культурно-познавательный туризм
-
 &nbsp;&nbsp;&nbsp;&nbsp;[Музейно-выставочный комплекс оружия им. М.Т. Калашникова](/kalashnikov)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Национальный музей Удмуртской Республики имени Кузебая Герда](/museiimenigerda)

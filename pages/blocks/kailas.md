@@ -1,6 +1,11 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/zdorovii_turism.md)
+---
+layout: page
+title: Центр йоги «Кайлас»
+permalink: /kailas
+---
 
-### &nbsp;&nbsp;&nbsp;Центр йоги «Кайлас»
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/ozdorovitelniiturism)
+
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Кайлас – это пространство гармонии и здоровья, сообщество осознанных людей для улучшения качества жизни и ускорения твоего развития.
 </p>

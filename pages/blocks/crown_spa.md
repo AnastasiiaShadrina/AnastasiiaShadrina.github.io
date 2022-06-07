@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Crown Spa
+title: Салон восточной красоты Crown Thai Spa
 permalink: /CrownSpa
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/zdorovii_turism.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/ozdorovitelniiturism)
 
-### &nbsp;&nbsp;&nbsp;Салон восточной красоты Crown Thai Spa
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Сеть профессиональных салонов тайского массажа CROWN THAI SPA предоставляет гостям уникальную возможность ощутить на себе положительный эффект восточной медицины и заказать традиционный тайский массаж.
 </p>

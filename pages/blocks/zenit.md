@@ -1,6 +1,11 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/sport_turism.md)
+---
+layout: page
+title: Центральный Республиканский стадион «Зенит»
+permalink: /zenit
+---
 
-### &nbsp;&nbsp;&nbsp;Центральный Республиканский стадион «Зенит»
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/sportivniiturism)
+
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Центральный республиканский стадион «Зенит» — стадион в городе Ижевск, Республика Удмуртия. Является главным и крупнейшим стадионом республики с вместимостью — 16 000 зрителей.
 </p>

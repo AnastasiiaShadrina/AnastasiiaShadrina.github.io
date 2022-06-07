@@ -8,8 +8,6 @@ image: religiozniiturism.jpg
 permalink: /religiozniiturism
 ---
 
-## &nbsp;&nbsp;Религиозный туризм
-
 &nbsp;&nbsp;&nbsp;&nbsp;[Михайло-Архангельский кафедральный собор](/mikhailovskiisobor)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Александро-Невский кафедральный собор](/aleksandronevskiysobor)

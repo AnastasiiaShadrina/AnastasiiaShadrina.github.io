@@ -1,6 +1,11 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/zdorovii_turism.md)
+---
+layout: page
+title: Тайский СПА-салон MaiTai
+permalink: /maitai
+---
 
-### &nbsp;&nbsp;&nbsp;Тайский СПА-салон MaiTai
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Назад](/ozdorovitelniiturism)
+
 <p style="text-align:  justify;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cеть салонов MaiTai по праву является самой большой сетью тайских СПА в Ижевске. Салоны расположены в удобных местах города, что делает их особенно привлекательными.
 </p>
