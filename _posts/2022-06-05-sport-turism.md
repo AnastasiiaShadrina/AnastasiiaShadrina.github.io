@@ -8,8 +8,10 @@ image: sportturism.jpg
 permalink: /sportivniiturism
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Учреждение культуры и спорта Ледовый дворец «Ижсталь»](/izhstal)
+<img src="/images/map3.jpg" alt="карта3" width="1000"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Центральный Республиканский стадион «Зенит»](/zenit)
+&nbsp;&nbsp;<img src="/images/number1.jpg" alt="one" width="40"/>&nbsp;&nbsp;[Учреждение культуры и спорта Ледовый дворец «Ижсталь»](/izhstal)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Спорткомплекс «Динамо»](/dinamo)
+&nbsp;&nbsp;<img src="/images/number2.jpg" alt="two" width="40"/>&nbsp;&nbsp;[Центральный Республиканский стадион «Зенит»](/zenit)
+
+&nbsp;&nbsp;<img src="/images/number3.jpg" alt="three" width="40"/>&nbsp;&nbsp;[Спорткомплекс «Динамо»](/dinamo)
