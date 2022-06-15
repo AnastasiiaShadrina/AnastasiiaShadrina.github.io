@@ -8,7 +8,7 @@ image: kulturniiturism.jpg
 permalink: /kulturniiturism
 ---
 
-<img src="/images/map1.jpg" alt="карта1" width="700"/>
+<img src="/images/map1.jpg" alt="карта1" width="500"/>
 
 <img src="/images/number1.jpg" alt="one" width="40"/>[Музейно-выставочный комплекс оружия им. М.Т. Калашникова](/kalashnikov)
 
